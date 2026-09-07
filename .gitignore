@@ -1,0 +1,17 @@
+# Large data files
+data/
+GDCdata/
+*.rds
+*.RData
+*.Rhistory
+
+# Large count matrices
+*count_matrix.csv
+
+# Temporary files
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
